@@ -3408,24 +3408,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\307-07\\.nuget\\packages\\": {},
+    "C:\\Users\\Home\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\307-07\\Documents\\Харсевич Пр-21\\zd5_new\\zd5_new.Android\\zd5_new.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Home\\Desktop\\ПТпм и учебная практика\\zd5_new\\zd5_new.Android\\zd5_new.Android.csproj",
       "projectName": "zd5_new.Android",
-      "projectPath": "C:\\Users\\307-07\\Documents\\Харсевич Пр-21\\zd5_new\\zd5_new.Android\\zd5_new.Android.csproj",
-      "packagesPath": "C:\\Users\\307-07\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\307-07\\Documents\\Харсевич Пр-21\\zd5_new\\zd5_new.Android\\obj\\",
+      "projectPath": "C:\\Users\\Home\\Desktop\\ПТпм и учебная практика\\zd5_new\\zd5_new.Android\\zd5_new.Android.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Home\\Desktop\\ПТпм и учебная практика\\zd5_new\\zd5_new.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\307-07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\307-07\\Documents\\Харсевич Пр-21\\zd5_new\\zd5_new\\zd5_new.csproj": {
-              "projectPath": "C:\\Users\\307-07\\Documents\\Харсевич Пр-21\\zd5_new\\zd5_new\\zd5_new.csproj"
+            "C:\\Users\\Home\\Desktop\\ПТпм и учебная практика\\zd5_new\\zd5_new\\zd5_new.csproj": {
+              "projectPath": "C:\\Users\\Home\\Desktop\\ПТпм и учебная практика\\zd5_new\\zd5_new\\zd5_new.csproj"
             }
           }
         }
@@ -3452,14 +3452,6 @@
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.7.0, )"
-          },
-          "Xamarin.Essentials": {
-            "target": "Package",
-            "version": "[1.7.0, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

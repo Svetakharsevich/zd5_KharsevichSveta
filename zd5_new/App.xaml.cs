@@ -10,7 +10,7 @@ namespace zd5_new
         {
             InitializeComponent();
 
-            MainPage = new Page3();
+            MainPage = new NavigationPage(new Page3());
         }
 
         protected override void OnStart()
